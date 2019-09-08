@@ -4,10 +4,10 @@
 
 This is my first android simple todo-list app with React-native. It was great experience. Users can add, strike and delete their tasks and there are two other buttons to check all and delete all. There is also a sidebar with a link to the Home page and About page.
 
-![image](https://{./Images/todo-list.jpeg})
-![image](<https://{./Images/todo-list(1).jpeg}>)
-![image](<https://{./Images/todo-list(2).jpeg}>)
-![image](<https://{./Images/todo-list(3).jpeg}>)
+<img src="https://github.com/lenaone/LS_todolist/blob/master/Images/todo-list.jpeg?raw=true" width="100" heigh="20"/>
+<img src="https://github.com/lenaone/LS_todolist/blob/master/Images/todo-list(1).jpeg?raw=true" width="100" heigh="20"/>
+<img src="https://github.com/lenaone/LS_todolist/blob/master/Images/todo-list(2).jpeg?raw=true" width="100" heigh="20"/>
+<img src="https://github.com/lenaone/LS_todolist/blob/master/Images/todo-list(3).jpeg?raw=true" width="100" heigh="20"/>
 
 ## Technologies Used
 
